@@ -1,0 +1,33 @@
+{
+  "name": "league-serie-a",
+  "version": "1.0.0",
+  "description": "Scraper for Serie A League",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanjunaid/league-serie-a.git"
+  },
+  "keywords": [
+    "football",
+    "league",
+    "serie-a",
+    "scraper"
+  ],
+  "author": "Kurniawan Junaidy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwanjunaid/league-serie-a/issues"
+  },
+  "homepage": "https://github.com/iwanjunaid/league-serie-a#readme",
+  "dependencies": {
+    "async": "1.5.x",
+    "cheerio": "0.20.x",
+    "node-horseman": "2.8.x"
+  },
+  "devDependencies": {
+    "mocha": "2.4.x"
+  }
+}
