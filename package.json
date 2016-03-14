@@ -1,6 +1,6 @@
 {
   "name": "league-serie-a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scraper for Serie A League",
   "main": "index.js",
   "scripts": {
